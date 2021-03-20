@@ -1,1 +1,1 @@
-# Python_practise
+# Python_Miniprojects
